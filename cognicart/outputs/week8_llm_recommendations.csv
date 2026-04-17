@@ -1,0 +1,6 @@
+Customer_ID,Segment,Last_Purchase,LLM_Recommendation
+C001,Premium,"Rice, Dal, Oil","[Oil, Dal, Spices]"
+C002,Budget,"Bread, Eggs","[Bread, Eggs]"
+C003,Regular,"Tea Powder, Sugar, Milk","[Butter, Milk, Wheat Flour]"
+C004,Premium,"Butter, Jam","Butter, Jam."
+C005,Budget,Rice,"[Bread, Soap, Dal]"
