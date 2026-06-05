@@ -302,7 +302,7 @@ clusters = load_clusters()
 if page == "🏠 Overview":
     st.markdown("""
     <div class='cogni-header'>
-        <h1>🛒 CogniCart</h1>
+        <h1>🛒BASKETMIND(AI) CogniCart</h1>
         <p>A Cognitive AI/ML/DL Framework for Intelligent Market Basket Analysis using NLP and Large Language Models</p>
     </div>
     """, unsafe_allow_html=True)
